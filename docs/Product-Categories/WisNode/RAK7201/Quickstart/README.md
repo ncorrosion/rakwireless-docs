@@ -38,6 +38,7 @@ For you to be able to interface with the RAK7201 WisNode Button 4K with your Win
 
 <rk-img
   src="/assets/images/wisnode/rak7201/quickstart/1.png"
+        
   width="50%"
   caption="RAK7201 WisNode Button 4k to laptop connection"
 />
@@ -166,7 +167,7 @@ at+set_config=lora:app_eui:XXXX
 Finally fill in the App key with the command:
 
 ```
-at++set_config=lora:app_key:XXXX
+at+set_config=lora:app_key:XXXX
 ```
 
 - Join Network
